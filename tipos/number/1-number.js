@@ -2,7 +2,7 @@ const myNumber = 12.4032;
 
 //Transforma número para string
 const numberAsStrig = myNuber.toString();
-console.log('Número transformado em string: ', typeod numberAsStrig);
+console.log('Número transformado em string: ', typeof numberAsStrig);
 
 //Retorna número com um número de casas decimais
 const fixedTwoDecimals = myNuber.toFixed(2);
